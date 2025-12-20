@@ -24,3 +24,7 @@ Les paramètres semblent correctement filtrés ou castés côté serveur.
 - Utiliser des requêtes préparées (prepared statements).
 - Valider et typer strictement les entrées utilisateur.
 - Ne jamais faire confiance aux données côté client.
+### Capture – Tests SQLi sur paramètres POST (aucun impact)
+![Test page=members](https://github.com/user-attachments/assets/2f88b8d6-2928-484e-8000-5638357cd324)
+
+
