@@ -20,3 +20,7 @@ d’une valeur numérique attendue.
 - Valider strictement les entrées côté serveur (valeurs numériques uniquement).
 - Implémenter une liste blanche des valeurs autorisées (1 à 10).
 - Échapper les données avant affichage côté client.
+### Capture – Valeur injectée affichée dans l’interface
+
+![grade](https://github.com/user-attachments/assets/4ecb4ab3-e4d0-4b25-a7b3-6a297cc802e1)
+![xss-1](https://github.com/user-attachments/assets/90fdb954-d061-4935-a5c1-1325d9cafe44)
