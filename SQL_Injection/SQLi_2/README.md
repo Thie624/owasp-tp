@@ -30,3 +30,4 @@ L’application semble protégée contre ce type d’attaque.
 - Utiliser exclusivement des requêtes préparées.
 - Valider les paramètres côté serveur.
 - Désactiver l’affichage des erreurs SQL en production.
+![Sorry-Wrong-Answer](https://github.com/user-attachments/assets/ca7f576f-1e52-4953-9ec4-f08ebceda2f5)
