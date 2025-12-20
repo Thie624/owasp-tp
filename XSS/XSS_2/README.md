@@ -23,3 +23,8 @@ http://192.168.10.12/?page=%3Cscript%3Ealert(1)%3C/script%3E
 - Filtrer et valider strictement les paramètres GET.
 - Échapper les caractères spéciaux avant affichage.
 - Mettre en place une Content Security Policy (CSP).
+### Capture – Exécution du script JavaScript
+![xss-2](https://github.com/user-attachments/assets/85027c80-bfaf-4ba4-82b5-49b9ea7f21f3)
+
+![xss-2 2](https://github.com/user-attachments/assets/4dde8d09-788d-4b66-a4f3-0b7fa86f5c48)
+
